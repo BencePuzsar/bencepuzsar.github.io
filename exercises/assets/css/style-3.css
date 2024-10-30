@@ -35,8 +35,7 @@ input, button, textarea, select { font: inherit }
 body {font-family: var(--global-font)}
 
 /* Desktops */
-@media (max-width: 767px) {
-    section { padding: 5% 5% }
+section { padding: 4% 20% }
 }
                 
 /* Mobiles */
