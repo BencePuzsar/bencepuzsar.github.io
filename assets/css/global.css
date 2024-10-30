@@ -17,6 +17,8 @@ input, button, textarea, select { font: inherit }
 /* Mobiles */
 @media (max-width: 767px) { body { padding: 12% 8% } }
 
+body { background-color: lightgreen; }
+
 body {
     text-align: center;
     font-family: sans-serif;
@@ -49,4 +51,4 @@ p {
     font-size: 20px;
     margin-bottom: 16px;
 }
-
+a { color: darkgreen; }

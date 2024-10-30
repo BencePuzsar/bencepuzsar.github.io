@@ -43,11 +43,14 @@ section { padding: 4% 20% }
     section { padding: 5% 5% }
 }
 
+body { background-color: lightblue; }
+
 h2 {
     font-family: var(--font-sans);
     letter-spacing: -2px;
     font-size: var(--fs-xxl);
     margin-bottom: 4px;
+    color: blue;
 }
 
 h3 {
@@ -59,3 +62,4 @@ p {
     font-size: var(--fs-md);
     margin-bottom: 16px;
 }
+a { color: blue; }

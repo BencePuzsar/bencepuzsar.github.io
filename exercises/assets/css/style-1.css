@@ -19,24 +19,28 @@ input, button, textarea, select { font: inherit }
     body { padding: 8% 5% }
 }
 
+body { background-color: antiquewhite; }
 
-
+/*Hello World*/
 h1 {
     font-size: 84px;
     text-align: center;
     font-weight: normal;
     letter-spacing: -2px;
     margin-bottom: 32px;
+    color: brown;
 }
 
 h2 {
     font-size: 36px;
     margin-bottom: 4px;
+    color: brown;
 }
 
 h3 {
     font-size: 24px;
     margin-bottom: 4px;
+    color: brown;
 }
 
 p {
@@ -44,4 +48,6 @@ p {
     font-family: sans-serif;
     line-height: 1.6;
     margin-bottom: 20px;
+    
 }
+a { color: brown; }
